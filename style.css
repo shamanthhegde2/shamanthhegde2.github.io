@@ -1,0 +1,29 @@
+.main_heading {
+    color : aqua;
+    font-size: x-large;
+    background-image: url("covid-19.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+}
+body {
+    background-color: rgb(96, 99, 100);
+    
+
+    font-family: 'Caveat', cursive;
+
+    font-family: 'Playfair Display', serif;
+    
+}
+
+input[type=submit],input[type=reset]{
+    background-color: darkolivegreen;
+    color: goldenrod;
+    cursor: pointer;
+    width: 100px;
+}
+input[type=text] ,input[type=email],input[type=dropdown]{
+    color : rgb(64, 15, 114);
+    width: 200px;
+
+}
